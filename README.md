@@ -6,4 +6,7 @@
     <li>Figma design : <a href="https://www.figma.com/design/4ByhwcBLDptYhFMWgvbQRH/WEB-PORTFOLIO?t=yF02KuLDlbOxeTw0-0" target="_blank">Zidane Rizky R</a></li>
     <li>Github : <a href="https://github.com/zdnrzkyr/">zdnrzkyr</a></li>
 </ul>
+<h2>Tampilan Web</h2>
+<h3>Home</h3>
+<img src=""https://i.ibb.co.com/YtYt4Rs/image.png" width="300px">
 
