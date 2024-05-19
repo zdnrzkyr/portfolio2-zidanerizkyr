@@ -8,5 +8,5 @@
 </ul>
 <h2>Tampilan Web</h2>
 <h3>Home</h3>
-<img src=""https://i.ibb.co.com/YtYt4Rs/image.png" width="300px">
+<a href="https://ibb.co.com/55t5XMH"><img src="https://i.ibb.co.com/YtYt4Rs/image.png" alt="image" border="0"></a>
 
