@@ -10,5 +10,8 @@
 <h3>Home</h3>
 <a href="https://ibb.co.com/zPx2BHm"><img src="https://i.ibb.co.com/c238ZXy/image.png" alt="image" border="0"></a>
 <h3>Login Page</h3>
+<a href="https://ibb.co.com/12mPRy1"><img src="https://i.ibb.co.com/5cRSspm/image.png" alt="image" border="0"></a>
+<h3>Dashboard</h3>
+<a href="https://ibb.co.com/MpfySJY"><img src="https://i.ibb.co.com/q9CLj2t/image.png" alt="image" border="0"></a>
 
 
